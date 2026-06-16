@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Optional local exports (if generated)
+*.bak
+
+# Duplicate local copy (canonical file lives in dashboard/)
+dashboard_music.xlsx
