@@ -6,7 +6,6 @@ This project is an interactive Excel dashboard built on Kaggle data about global
 
 ## 🎯 Skills Demonstrated
 
-- **Power Query** — import, type casting, cleaning, and loading data from CSV
 - **Pivot Tables** — aggregations that feed charts and KPIs
 - **Slicers** — interactive filters for country and platform
 - **KPI Cards** — summary metrics displayed as dashboard tiles
